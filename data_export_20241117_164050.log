@@ -1,0 +1,24 @@
+2024-11-17 16:40:51,758 - INFO - Exported 76623 matches in total
+2024-11-17 16:40:51,760 - INFO - Date range: 2010-07-12 00:00:00 to 2024-11-17 00:00:00
+2024-11-17 16:40:52,869 - INFO - 
+Export Statistics:
+2024-11-17 16:40:52,869 - INFO - --------------------------------------------------
+2024-11-17 16:40:52,869 - INFO - Total matches: 76,623
+2024-11-17 16:40:52,869 - INFO - 
+Matches by source:
+2024-11-17 16:40:52,930 - INFO - - League/Cup: 76,299
+2024-11-17 16:40:52,941 - INFO - - World Cup: 192
+2024-11-17 16:40:52,951 - INFO - - Euro: 102
+2024-11-17 16:40:52,962 - INFO - - Copa América: 30
+2024-11-17 16:40:52,962 - INFO - 
+Matches by competition level:
+2024-11-17 16:40:52,963 - INFO - - Level 1: 324
+2024-11-17 16:40:52,976 - INFO - - Level 2: 25,173
+2024-11-17 16:40:52,984 - INFO - - Level 3: 13,019
+2024-11-17 16:40:52,990 - INFO - - Level 4: 7,773
+2024-11-17 16:40:53,006 - INFO - - Level 5: 30,334
+2024-11-17 16:40:53,007 - INFO - 
+Date range: 2010-07-12 00:00:00 to 2024-11-17 00:00:00
+2024-11-17 16:40:53,007 - INFO - 
+Data exported to: full_match_data.csv
+2024-11-17 16:40:53,146 - ERROR - Error exporting to CSV: '<' not supported between instances of 'NoneType' and 'str'
