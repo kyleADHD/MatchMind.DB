@@ -13,6 +13,8 @@ class DatabaseInspector:
         self.db_path = db_path
         self.setup_logging()
 
+
+
     def setup_logging(self):
         """Setup logging configuration"""
         log_file = f'db_inspection_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
